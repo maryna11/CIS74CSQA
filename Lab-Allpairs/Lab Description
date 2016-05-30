@@ -1,1 +1,6 @@
-L
+Lab Exercise: Chapter 6 Practice 1a
+Do Practice exercise 1.a. at the end of chapter 6 (page 91), using the allpairs program. To submit the assignment, upload two files: 
+
+your input file (test.txt or similarly named file), and
+the output from running allpairs.pl with that input file.
+HINT: My output from allpairs.pl specified 30 test cases. So, if you come up with a different number, review your solution for correctness. Of course, it's always possible that I did something wrong! If your number is different and you think it is correct, start a discussion on our Forum to see what number other people are getting.
