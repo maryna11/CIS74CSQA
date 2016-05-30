@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://deanza.edu/" />
+<title>FG</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">FG</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/directory/dir-az.html</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Flu Information and Updates</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: Flu Information and Updates :: Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Foothill College</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=div.pagearea</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>Foothill College is a 2-year community college providing a wide range of educational opportunities for all.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Foothill-De Anza District</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>Welcome to Foothill-De Anza</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=French Department</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: French :: Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Friends of De Anza</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: Friends :: Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Gainful Employment Disclosure</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: Workforce Education :: Gainful Employment Disclosure</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=General Subjects Tutoring</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: General Subjects Tutoring :: Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Geography Department</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyTitle</td>
+	<td>De Anza College :: Geography :: Home</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
