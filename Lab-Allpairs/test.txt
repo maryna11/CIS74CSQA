@@ -1,0 +1,7 @@
+Customers	Accounts	States
+consumers	checking	California
+very important consumers	savings	Nevada
+businesses 	mortgages	Utah
+non-profits 	consumer loans	Idaho
+	commercial loans	Arizona
+		New Mexico
