@@ -1,1 +1,9 @@
-
+Filing a good Bugzilla report
+Select the appropriate Product. If there isn't one, then set one up.
+Select the appropriate Component for the Product. If there isn't one, then set one up.
+Select appropriate Severity, Hardware, and OS values.
+Enter a one-line Summary of the bug which mentions the bad behavior.
+Enter into the Description field a numbered set of instructions by which the reader can easily reproduce the bug. Each instruction should start with a verb and be a complete sentence. In addition, each instruction should be well-written, i.e., no misspellings, no random capitalization, no missing words, no extraneous words, etc.
+At the end of the Description field (after the numbered set of instructions), enter two more short paragraphs, one headed with EXPECTED BEHAVIOR: and another headed with ACTUAL BEHAVIOR:. Complete each one with a sentence or two about what you expected vs. what you actually got.
+Add a file Attachment if desired. A snapshot of the problem is the most common type of attachment for web and mobile bugs.
+Click on the Submit Bug button.
