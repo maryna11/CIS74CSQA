@@ -1,0 +1,71 @@
+MIDTERM REVIEW
+Each question's answer in this review page has been hidden as an HTML comment. How can you most easily see each answer?
+Which browser has Selenium IDE as a plug-in?
+What's the name for the type of array associated with pairwise testing?
+Which of these is termed a "soft" assert--verifyText or assertText?
+Is the following an orthogonal array?
+1 	1 	3
+1 	2 	2
+1 	3 	1
+2 	1 	2
+2 	2 	1
+3 	1 	1
+3 	2 	3
+3 	3 	2
+What HTML tag contains the text displayed at the top of the browser or a browser tab for a given page?
+A code __________ is an efficient way to find coding mistakes.
+How many test cases would be needed to test the following code snippet?
+if (score >= 90 and score <= 100) 
+  grade = "A"
+else if (score >= 80 and score <= 89)
+  grade = "B"
+else if (score >= 70 and score <= 79)
+  grade = "C"
+else if (score >= 60 and score <= 69)
+  grade = "D"
+else if (score >= 0 and score <= 59)
+  grade = "F"
+What does TCM stand for?
+What kind of testing is done after a large piece of the program has been assembled from smaller pieces?
+Which two Bugzilla states might a QA engineer move a bug to after completing the bug-fix verification process on it?
+What is the name for the type of sort order illustrated by this list? APPLE, Adams, Adelbert, Bartholomew, Christy
+ResumeSmarts is an example of a __________-_________ application.
+Which tool did we study which allows one to search for 404s?
+How do you add a link to another bug within the Description or Comment field of a Bugzilla report?
+Which two tools did we discuss and/or use which are major competitors in the area of testing-in-the-clouds?
+Which IEEE document template includes a section with one-liner summaries of each test case?
+What does TPS stand for?
+Which model of software development is entirely sequential in nature, and not used as much today as it has been in the past?
+What's the generic name for test cases which use valid input?
+What does A11Y stand for?
+What type of testing is typically done by the programmer who wrote the code being tested?
+Which tool did we use that is an example of a capture/replay tool?
+What is the term for testing that is sloppy, careless, and unfocused?
+What model of software development includes these phases--system requirements, software requirements, requirements analysis, program design, coding, testing, and operations?
+What is the term for the situation when a test is defined at a level of detail sufficient for someone other than the author to execute it in the same way?
+What does SUT stand for?
+Which development method is exemplified by Extreme Programming?
+What does I18N stand for?
+What does IDE stand for?
+What is the name for a group of related test cases?
+How does one create vertical white space in a Selenium IDE test?
+What type of assertion--soft or hard--stops execution of the test if it fails?
+Which type of testing is oftentimes erroneously equated with manual testing?
+For which type of testing would the Allpairs tool be useful?
+If one has an orthogonal array larger than one needs, how can one safely shrink it?
+Which component of an orthogonal array corresponds to the number of test cases that must be produced?
+The primary difference between a bug report and a test case is that one of them has an extra field. Which has the extra field, and what is that extra field?
+Before filing a new bug report, what should a good QA engineer always first check?
+Which TCM are we going to be using in this class?
+What is the commonly used shortening of the term "localization?"
+Fill in the two blanks: Most defects are either _______________ defects (the function under test doesn't work) OR _______________ defects (the pairing of this function/module with that function/module fails).
+What type of command must a Selenium IDE script include in order to actually test something?
+What type of code is in the test file created by Selenium IDE?
+Selenium RC was the name of the first version of Selenium released for use with high-level programming languages. What was the name of the second version, released in 2011, which you are using for a lab exercise?
+What is the generic name for testing based on the internal structure of the software under test?
+What does IEEE Standard 829 cover?
+What does James Bach term "simultaneous learning, test design, and test execution?"
+What is the high-level motivation for using a technique like equivalence classes, boundary value testing, or pairwise testing?
+How many test cases must be written for each boundary value identified?
+What's the name of the Python testing framework we'll be using with Selenium for this week's lab exercise?
+What's an example of what can be done to make a piece of software accessible?
