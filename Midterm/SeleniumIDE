@@ -1,0 +1,24 @@
+<tr>
+	<td>open</td>
+	<td>/searchcenter/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>CourseTitle</td>
+	<td>quality</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertElementPresent</td>
+	<td>link=Computer Software Quality Assurance</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
