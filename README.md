@@ -7,5 +7,6 @@ This repository contains:
 - **Crowdtesting-via-RainforestQA** Lab Execise Files (screenshots)
 - **Bugzilla** Lab Exercise Files (Bug Reports)
 - **Tesd Design Specification (TDS)** and **Test Procedure Specification (TPS)**
+- **TestRail** Test Runs
 
 *This repository has been edited with the Markdown.*
